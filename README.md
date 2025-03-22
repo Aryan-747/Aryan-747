@@ -24,10 +24,6 @@ I'm always working on new and exciting projects. Here are some of the things I f
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-747&show_icons=true&hide_title=true&count_private=true&hide=prs
 )
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-747&theme=modern-lilac)](https://git.io/streak-stats)
-
-
-
 ## 📣 Connect With Me
 
 - **X**: [@Aryan-747](https://x.com/Aryan_747)
