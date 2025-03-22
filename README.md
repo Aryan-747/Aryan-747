@@ -21,7 +21,8 @@ I'm always working on new and exciting projects. Here are some of the things I f
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-747&show_icons=true&hide_title=true&count_private=true&hide=prs
+)
 
 
 
@@ -29,7 +30,7 @@ I'm always working on new and exciting projects. Here are some of the things I f
 
 - **X**: [@Aryan-747](https://x.com/Aryan_747)
 - **LinkedIn**: [Aryan Salaria](https://www.linkedin.com/in/aryan-salaria-b75480243/)
-- **Email**: [your-arayn.32@gmail.com](mailto:arayn.32@gmail.com)
+- **Email**: [arayn.32@gmail.com](mailto:arayn.32@gmail.com)
 
 ## 🎯 How to Reach Me
 
